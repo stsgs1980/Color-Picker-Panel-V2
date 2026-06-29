@@ -1,3 +1,5 @@
+# Color Picker Panel V2
+
 
   # Color Picker Panel
 
@@ -7,5 +9,47 @@
 
   Run `npm i` to install the dependencies.
 
-  Run `npm run dev` to start the development server.
+  Run `bun run dev` to start the development server.
   
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
+
+## Features
+
+- Feature 1 - description
+- Feature 2 - description
+
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 20+ or Bun
+
+### Installation
+
+```bash
+git clone https://github.com/stsgs1980/Color-Picker-Panel-V2.git
+cd Color-Picker-Panel-V2
+bun install
+```
+
+### Run
+
+```bash
+bun run dev
+```
+
+## License
+
+[MIT](LICENSE)
+
+
+## Tech Stack
+
+- **Tool** - Figma
+
+---
+Built with: Figma
